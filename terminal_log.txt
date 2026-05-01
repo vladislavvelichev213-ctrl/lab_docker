@@ -1,7 +1,0 @@
-=== LAB06 TERMINAL LOG ===
-Author: Vladislav Velichev
-GitHub: vladislavvelichev213-ctrl
-
-Steps 0-10: Tutorial completed
-Homework: solver + CI/CD workflow completed
-Release: v0.2.0.2 with .deb, .rpm, .tar.gz
