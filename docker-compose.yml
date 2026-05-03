@@ -1,7 +1,9 @@
 services:
   app:
-    build: . 
+    build: .
     container_name: lab_docker
+    ports:
+      - "5001:5000"
     depends_on:
       db:
         condition: service_healthy
